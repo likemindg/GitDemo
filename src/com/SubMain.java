@@ -12,6 +12,8 @@ public class SubMain {
 		// 그래
 		// 충돌 강제 실행..
 
+		// 고래?
+
 	}
 
 }
